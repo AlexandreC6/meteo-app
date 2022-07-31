@@ -1,4 +1,4 @@
-# meteo-app
+# Meteo-app
 ## Why did you do these projects?
 
 To consolidate my skills in javascript.
